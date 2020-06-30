@@ -1,0 +1,16 @@
+C:\Users\Dietmar\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Dietmar\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Dietmar\source\repos\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.Quiz.resources
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.FrmInfo.resources
+C:\Users\Dietmar\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.manifest
+C:\Users\Dietmar\source\repos\Quiz\Quiz\bin\Debug\Quiz.application
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.TrustInfo.xml
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe.manifest
+C:\Users\Dietmar\source\repos\Quiz\Quiz\obj\Debug\Quiz.application
